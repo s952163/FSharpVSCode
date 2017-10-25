@@ -41,7 +41,7 @@ Ionide in VSCode uses the new fsproj format. This can be used with MSBuild 15 to
 
 
 ## Troubleshooting:  
-* To refresh Ionide's cache use `Ctrl+Shift+P F# Clean Cache` 
+* To refresh Ionide's cache use `Ctrl+Shift+P F# Clear Cache` 
 * To refresh the VSCode window use `Ctrl+Shift+P F# Reload Window` 
 
 ## To clone this repo:
