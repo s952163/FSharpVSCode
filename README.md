@@ -19,7 +19,7 @@ Ionide in VSCode uses the new fsproj format. This can be used with MSBuild 15 to
     * Add `Deedle`  
 * Wait until the dependency is downloaded and added to the `paket.dependencies` and `paket.references` files  
 
-![Add nuget package to project](.images/Image2.png)   
+![Add nuget package to project](./images/Image2.png)   
 
 * Next we need to select the MSBuild host and restore the packages. Either right-click in the F# Project Explorer or with `Ctrl+Shift+P`:
     * `MSBuild: Switch host type` Select (.NET) pr .NET Core if building for .NET Core SDK
